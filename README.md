@@ -8,8 +8,8 @@ Para otimizar os testes de login, utilizei um **arquivo JSON** (`logindata.json`
 ## 🔹 **Tecnologias Utilizadas**  
 - **Cypress** para automação de testes end-to-end  
 - **JavaScript** como linguagem de programação  
-- **GitHub Actions** para integração contínua  
-- **Jira** para gestão de requisitos e acompanhamento de testes  
+- **Trello** para organização de testes e acompanhamento do fluxo de trabalho
+  
 
 ## 🚀 **Como Executar os Testes**  
 1️⃣ Clone o repositório:  
