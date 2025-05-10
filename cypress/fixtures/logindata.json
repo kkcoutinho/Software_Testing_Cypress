@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "cenario": "Login com e-mail e senha cadastrados",
+      "email": "customer2@practicesoftwaretesting.com",
+      "senha": "welcome01"
+    },
+    {
+      "cenario": "Login com email e senha não cadastrados",
+      "email": "teste@teste.com.br",
+      "senha": "teste"
+    },
+    {
+      "cenario": "Login com e-mail válido e senha inválida",
+      "email": "customer2@practicesoftwaretesting.com",
+      "senha": "teste"
+    }
+  ]
+}
